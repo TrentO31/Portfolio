@@ -8,6 +8,7 @@ qwerty
 ##Table of Contents
 
 ### Windmill Project
+-[Windmill Failure Project](https://github.com/TrentO31/Portfolio/blob/main/PostGradProjectWindmillSupervisedLearningPipeline%20(1).ipynb)
 
 Purpose/Goal: The objective is to build various classification models, tune them, and find the best one that will help identify failures so that this comapnany's generators could be repaired before failing/breaking to reduce the overall maintenance cost. 
 
