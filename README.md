@@ -7,7 +7,7 @@ Data Analyst with four years of experience in leveraging data analytics, SQL, Py
 ##Table of Contents
 
 ### Easy Visa Project
--[Windmill Failure Project](https://github.com/TrentO31/Portfolio/blob/main/PostGradProjectWindmillSupervisedLearningPipeline%20(1).ipynb)
+-[Easy Visa Project](https://github.com/TrentO31/Portfolio/blob/main/DSBA_Project_ET_EasyVisa_Fullcode.ipynb)
 
 Purpose/Goal: 
 
