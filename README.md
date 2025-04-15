@@ -6,7 +6,7 @@ Data Analyst with experience in leveraging data analytics, SQL, Python, SAS, Mic
 
 ##Table of Contents
 ### Trade & Ahead Stock Market Unsupervised Learning Project
--[Stock Market Unsupervised Learning Project](file:///C:/Users/trent/Downloads/Stock%20Market%20-Unsupervised%20Learning%20Post%20Graduate%20Project.html)
+-[Stock Market Unsupervised Learning Project], copy and paste to access, file is too big to be shown here. file:///C:/Users/trent/Downloads/Stock%20Market%20-Unsupervised%20Learning%20Post%20Graduate%20Project.html
 
 Purpose/Goal: The objective is to group the stocks based on the attributes provided, and sharing insights about the characteristics of each group.
 
