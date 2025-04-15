@@ -5,13 +5,26 @@ Here are some of my data projects
 Data Analyst with experience in leveraging data analytics, SQL, Python, SAS, Microsoft Excel and visualization tools to drive business decisions in the corporate and nonprofit field. Proven ability to manage data quality initiatives, develop dashboards, and deliver actionable insights to cross-functional teams. Adept at transforming raw data into meaningful analysis that aligns with business objectives.
 
 ##Table of Contents
+### Trade & Ahead Stock Market Unsupervised Learning Project
+-[Stock Market Unsupervised Learning Project](file:///C:/Users/trent/Downloads/Stock%20Market%20-Unsupervised%20Learning%20Post%20Graduate%20Project.html)
+
+Purpose/Goal: The objective is to group the stocks based on the attributes provided, and sharing insights about the characteristics of each group.
+
+Tools/Methods Used: Python, Data Visualization, Machine Learning, Supervised Learning, Statstics, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn, XGBoost, K Means Clustering, Hierarchical Clustering, Cluster Profiling
 
 ### Easy Visa Project
 -[Easy Visa Project](https://github.com/TrentO31/Portfolio/blob/main/DSBA_Project_ET_EasyVisa_Fullcode.ipynb)
 
 Purpose/Goal: The objective is to help  verify which aspects are most important when filtering through visa applicants and predetermine whether they should be screened or not from using previous years approval status with applicants information.
 
-Description: Python, Data Visualization, Machine Learning, Supervised Learning, Statstics, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn, XGBoost
+Tools/Methods Used: Python, Data Visualization, Machine Learning, Supervised Learning, Statstics, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn, XGBoost
+
+### California Housing Project
+-[Portfolio California Housing Project](https://github.com/TrentO31/Portfolio/blob/main/Portfolio_California_Housing_Project.ipynb)
+
+Purpose/Goal: The objective is to build various regression models, to help determine what a house should be valued.
+
+Tools/Methods Used: Python, Data Visualization, Machine Learning, Various Regression Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn
 
 ### Windmill Project
 -[Windmill Failure Project](https://github.com/TrentO31/Portfolio/blob/main/PostGradProjectWindmillSupervisedLearningPipeline%20(1).ipynb)
@@ -22,12 +35,6 @@ Description: The company “ReneWind” is working on improving the machinery/pr
 
 Tools/Methods Used: Python, Data Visualization, Machine Learning, Supervised Learning, Statstics, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn, XGBoost
 
-### California Housing Project
--[Portfolio California Housing Project](https://github.com/TrentO31/Portfolio/blob/main/Portfolio_California_Housing_Project.ipynb)
-
-Purpose/Goal: The objective is to build various regression models, to help determine what a house should be valued.
-
-Tools/Methods Used: Python, Data Visualization, Machine Learning, Various Regression Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn
 
 
 ## Education
