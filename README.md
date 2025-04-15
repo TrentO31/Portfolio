@@ -31,8 +31,6 @@ Tools/Methods Used: Python, Data Visualization, Machine Learning, Various Regres
 
 Purpose/Goal: The objective is to build various classification models, tune them, and find the best one that will help identify failures so that this comapnany's generators could be repaired before failing/breaking to reduce the overall maintenance cost. 
 
-Description: The company “ReneWind” is working on improving the machinery/processes involved in the production of wind energy using machine learning and has collected data of generator failure of wind turbines using sensors. They have shared a ciphered version of the data, as the data collected through sensors is confidential (the type of data collected varies with companies). Data has 40 predictors, 20000 observations in the training set and 5000 in the test set.
-
 Tools/Methods Used: Python, Data Visualization, Machine Learning, Supervised Learning, Statstics, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn, XGBoost
 
 
