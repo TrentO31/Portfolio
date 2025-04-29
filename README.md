@@ -5,6 +5,14 @@ Here are some of my data projects
 Data Analyst with experience in leveraging data analytics, SQL, Python, SAS, Microsoft Excel and visualization tools to drive business decisions in the corporate and nonprofit field. Proven ability to manage data quality initiatives, develop dashboards, and deliver actionable insights to cross-functional teams. Adept at transforming raw data into meaningful analysis that aligns with business objectives.
 
 ##Table of Contents
+
+### Student Lifestyle
+-[Student Lifestyle Project](https://github.com/TrentO31/Portfolio/blob/main/DSBA_Project_ET_EasyVisa_Fullcode.ipynb)
+
+Purpose/Goal: The objective is to help  verify which aspects are most important when it comes to student and their scoring. This information can be used to lead intitatives to braiding resources to improve availability for these aspects of a students life.
+Tools/Methods Used: Python, PowerBI, Machine Learning, Supervised Learning, SQL, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn
+
+
 ### Easy Visa Project
 -[Easy Visa Project](https://github.com/TrentO31/Portfolio/blob/main/DSBA_Project_ET_EasyVisa_Fullcode.ipynb)
 
