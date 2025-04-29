@@ -1,5 +1,5 @@
 # Portfolio
-Here are some of my data projects
+
 
 ## About
 Data Analyst with experience in leveraging data analytics, SQL, Python, SAS, Microsoft Excel and visualization tools to drive business decisions in the corporate and nonprofit field. Proven ability to manage data quality initiatives, develop dashboards, and deliver actionable insights to cross-functional teams. Adept at transforming raw data into meaningful analysis that aligns with business objectives.
