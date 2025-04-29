@@ -7,7 +7,7 @@ Data Analyst with experience in leveraging data analytics, SQL, Python, SAS, Mic
 ## Table of Contents
 
 ### Student Lifestyle
-- https://github.com/TrentO31/Portfolio/blob/main/DSBA_Project_ET_EasyVisa_Fullcode.ipynb](https://github.com/TrentO31/Portfolio/blob/main/Student%20Lifestyle%20Visual.pbix
+- https://github.com/TrentO31/Portfolio/blob/main/Student%20Lifestyle%20Visual.pbix
 
 Purpose/Goal: The objective is to help  verify which aspects are most important when it comes to student and their scoring. This information can be used to lead intitatives to braiding resources to improve availability for these aspects of a students life.
 Tools/Methods Used: Python, PowerBI, Machine Learning, Supervised Learning, SQL, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn
