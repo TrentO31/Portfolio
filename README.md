@@ -2,16 +2,16 @@
 
 
 ## About
-Data Analyst with experience in leveraging data analytics, SQL, Python, SAS, Microsoft Excel and visualization tools to drive business decisions in the corporate and nonprofit field. Proven ability to manage data quality initiatives, develop dashboards, and deliver actionable insights to cross-functional teams. Adept at transforming raw data into meaningful analysis that aligns with business objectives.
+A champion of change management with 4+ years of experience leveraging data to find efficiency opportunities, providing insights for business stakeholders, and leading improvement projects. Motivated team-oriented professional, thrilled with speaking with domain experts, eager to optimize technology to improve work practices and operational efficiency. 
 
 ## Table of Contents
 
-### Student Lifestyle
--https://github.com/TrentO31/Portfolio/blob/main/Student%20Lifestyle%20Visual.pbix
+### Windmill Project
+-[Windmill Failure Project](https://github.com/TrentO31/Portfolio/blob/main/PostGradProjectWindmillSupervisedLearningPipeline%20(1).ipynb)
 
-Purpose/Goal: The objective is to help  verify which aspects are most important when it comes to student and their scoring. This information can be used to lead intitatives to braiding resources to improve availability for these aspects of a students life.
-Tools/Methods Used: Python, PowerBI, Machine Learning, Supervised Learning, SQL, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn
+Purpose/Goal: The objective is to build various classification models, tune them, and find the best one that will help identify failures so that this comapnany's generators could be repaired before failing/breaking to reduce the overall maintenance cost. 
 
+Tools/Methods Used: Python, Data Visualization, Machine Learning, Supervised Learning, Statstics, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn, XGBoost
 
 ### Easy Visa Project
 -[Easy Visa Project](https://github.com/TrentO31/Portfolio/blob/main/DSBA_Project_ET_EasyVisa_Fullcode.ipynb)
@@ -27,12 +27,6 @@ Purpose/Goal: The objective is to build various regression models, to help deter
 
 Tools/Methods Used: Python, Data Visualization, Machine Learning, Various Regression Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn
 
-### Windmill Project
--[Windmill Failure Project](https://github.com/TrentO31/Portfolio/blob/main/PostGradProjectWindmillSupervisedLearningPipeline%20(1).ipynb)
-
-Purpose/Goal: The objective is to build various classification models, tune them, and find the best one that will help identify failures so that this comapnany's generators could be repaired before failing/breaking to reduce the overall maintenance cost. 
-
-Tools/Methods Used: Python, Data Visualization, Machine Learning, Supervised Learning, Statstics, Various Classification Algorithms, Pipelines, Pandas, Numpy, Seaborn, Sklearn, XGBoost
 
 
 
@@ -40,8 +34,7 @@ Tools/Methods Used: Python, Data Visualization, Machine Learning, Supervised Lea
 - University of Texas at San Antonio, San Antonio, Texas - Bachelor of Science (BS), Operations and Supply Chain Management (Dec 2022)               
 
 ## Certificates
-- Post Graduate Program in Data Science and Data Analytics, McCombs School of Business (Oct 2024)
+- Post Graduate Program in Data Science and Data Analytics, McCombs School of Business (Dec 2024)
 
 ## Contact
-- Linkedin: [@trentonoliphant](https://www.linkedin.com/in/trentonoliphant/)
 - Email: trentonoliphant1@gmail.com
