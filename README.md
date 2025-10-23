@@ -7,7 +7,7 @@ A champion of change management with 4+ years of experience leveraging data to f
 ## Table of Contents
 
 ### Demand Forecasting San Antonio Distribution Water Systems Project
--
+-[Portfolio California Housing Project](https://github.com/TrentO31/Portfolio/blob/main/DEMAND_REPAIR_DATABASE_ANALYSIS.ipynb)
 
 Purpose/Goal: I was tasked by San Antonio Water Systems to create a database and model that is able forecast the amount of demand repairs, providing informed data driven understandings and possible recommendations to help manage repair operations.
 
