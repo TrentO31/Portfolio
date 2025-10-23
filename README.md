@@ -9,7 +9,7 @@ A champion of change management with 4+ years of experience leveraging data to f
 ### Demand Forecasting San Antonio Distribution Water Systems Project
 -[Extract Transform Load - San Antonio Demand Repairs Project](https://github.com/TrentO31/Portfolio/blob/main/SAWS%20Demand%20Repair%20ETL%20and%20Initial%20Analysis.ipynb)
 
--[Database Analysis and Modeling/Nueral Network Design](https://github.com/TrentO31/Portfolio/blob/main/SAWS%20Demand%20Repair%20ETL%20and%20Initial%20Analysis.ipynb)
+-[Database Analysis and Modeling/Nueral Network Design](https://github.com/TrentO31/Portfolio/blob/main/DEMAND%20REPAIR%20DATABASE%20ANALYSIS.ipynb)
 
 Purpose/Goal: I was tasked by San Antonio Water Systems to create a database and model that is able forecast the amount of demand repairs, providing informed data driven understandings and possible recommendations to help manage repair operations.
 
